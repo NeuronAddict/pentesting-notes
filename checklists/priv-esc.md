@@ -1,5 +1,8 @@
 # Privilege escalation checklist
 
+Inspired from g0tmi1k priv esc checklist (see link above). 
+The order is adapted to match the more probables things that I discover.
+
 ## LINUX
 
 ### What kernel, what distibution? 
