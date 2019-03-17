@@ -1,5 +1,6 @@
 #stack smashing
 
+* https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/
 * https://blog.techorganic.com/2015/04/10/64-bit-linux-stack-smashing-tutorial-part-1/
 * http://shoxx-website.com/2017/02/exploitation-buffer-overflow-64-bits.html
 * https://nytrosecurity.com/2018/01/24/stack-based-buffer-overflows-on-x64-windows/
