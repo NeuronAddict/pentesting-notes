@@ -11,6 +11,15 @@
 - Create a file with a forbidden extension —> file.asp:.jpg or file.asp::$data
 - Combination of the above
 
+## PHP formats
+
+The following extensions can be executed : 
+
+* php
+* phtml
+* php5
+* phar
+
 ## Links
 
 https://pentestlab.blog/2012/11/29/bypassing-file-upload-restrictions/
