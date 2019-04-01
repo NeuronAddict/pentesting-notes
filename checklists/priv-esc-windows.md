@@ -30,9 +30,16 @@ netsh firewall show config
 ## can we runas ?
 https://ss64.com/nt/runas.html
 This was working on a machine : 
+
 ```
 runas /user:administrator /savecred "c:\users\security\downloads\wsrt.exe"
 ```
+
+## powersploit
+https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc
+
+## Group policies ?
+C:\ProgramData\Microsoft\Group Policy\History\{31B2F340-016D-11D2-945F-00C04FB984F9}\Machine\Preferences\Group
 
 ## Can we remplace a service?
 Uee accesschk to search writables services
@@ -51,3 +58,4 @@ search for local exploits on this programs
 
 ## what on users homes?
 any useful info?
+
