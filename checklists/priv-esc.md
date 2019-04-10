@@ -85,6 +85,8 @@ find "$DIRECTORY" -perm /4000' # find suid
 find "$DIRECTORY" -perm /2000 # find guid
 find "$DIRECTORY" -perm /6000 # both
 ```
+Trick : https://www.gnu.org/software/coreutils/manual/html_node/Directory-Setuid-and-Setgid.html. Suid folders can be interestings.
+
 
 useful suid programs :
 * sudo
