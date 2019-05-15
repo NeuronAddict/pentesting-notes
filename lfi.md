@@ -19,3 +19,5 @@ dangerous :
 - file, http, ftp
 - expect <-- cmd injection
 
+https://github.com/s-n-t/presentations/blob/master/us-18-Thomas-It's-A-PHP-Unserialization-Vulnerability-Jim-But-Not-As-We-Know-It.pdf
+
