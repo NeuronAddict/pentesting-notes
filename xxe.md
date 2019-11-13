@@ -12,3 +12,5 @@ prevent : https://www.linuxsecrets.com/owasp-wiki/index.php/XML_External_Entity_
 jaxb : https://stackoverflow.com/questions/12977299/prevent-xxe-attack-with-jaxb, https://github.com/mbechler/marshalsec
 
 https://securitycafe.ro/2017/11/03/tricking-java-serialization-for-a-treat/
+
+Evasion : https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-osipov-wp.pdf
