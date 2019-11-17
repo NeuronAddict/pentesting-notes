@@ -19,3 +19,6 @@ Evasion : https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-os
 
 A real xml tutorial : https://riptutorial.com/xml/example/12825/external-parsed-entities
 
+https://conference.hitb.org/hitbsecconf2017ams/materials/D2T2%20-%20Yu%20Hong%20-%20Attack%20Surface%20Extended%20by%20URL%20Schemes.pdf
+
+
