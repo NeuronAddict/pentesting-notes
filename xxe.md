@@ -13,6 +13,8 @@ jaxb : https://stackoverflow.com/questions/12977299/prevent-xxe-attack-with-jaxb
 
 https://securitycafe.ro/2017/11/03/tricking-java-serialization-for-a-treat/
 
+https://2013.appsecusa.org/2013/wp-content/uploads/2013/12/WhatYouDidntKnowAboutXXEAttacks.pdf
+
 Evasion : https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-osipov-wp.pdf
 
 A real xml tutorial : https://riptutorial.com/xml/example/12825/external-parsed-entities
