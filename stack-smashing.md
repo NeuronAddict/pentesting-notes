@@ -11,6 +11,8 @@
 * https://blogs.technet.microsoft.com/srd/2010/12/08/on-the-effectiveness-of-dep-and-aslr/
 * https://security.stackexchange.com/questions/100311/compiling-a-buffer-overflow-example-in-modern-linux
 * https://security.stackexchange.com/questions/92245/how-to-overwrite-ebp-on-stack-alignment/92332#92332
+* https://www.corelan.be/index.php/articles/#cat_exploits
+* https://forums.offensive-security.com/showthread.php?3900-Recommendation-for-Assembly-book
 
 
 python pack : https://www.journaldev.com/17401/python-struct-pack-unpack, https://docs.python.org/3.7/library/struct.html#format-characters
