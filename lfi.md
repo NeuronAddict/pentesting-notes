@@ -21,3 +21,8 @@ dangerous :
 
 https://github.com/s-n-t/presentations/blob/master/us-18-Thomas-It's-A-PHP-Unserialization-Vulnerability-Jim-But-Not-As-We-Know-It.pdf
 
+## evasion
+
+https://security.stackexchange.com/questions/48879/why-does-directory-traversal-attack-c0af-work
+
+
