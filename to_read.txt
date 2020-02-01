@@ -1,8 +1,52 @@
-https://samsclass.info/
-https://www.wordfence.com/learn/penetration-testing-your-wordpress-website/
-https://cxsecurity.com/issue/WLB-2013020035+
-https://nullsec.us/hashcat-3-0-on-a-32-bit-linux-vm/
-https://blog.ripstech.com/2018/moodle-remote-code-execution/
-http://cr.yp.to/
-https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+# To read
+
+* https://thehackernews.com/2017/07/ethical-hacking-online-training.html?m=1
+* https://blog.netspi.com/four-ways-bypass-android-ssl-verification-certificate-pinning/
+* https://www.zdnet.com/article/serious-linux-kernel-security-bug-fixed/
+* https://thehackernews.com/2017/06/linux-root-privilege-escalation.html
+* http://resources.infosecinstitute.com/proxy-chaining/
+* www.halfdog.net/Security
+* https://charlesreid1.com/wiki/Metasploitable/SSH/Exploits
+* http://www.cgisecurity.com/lib/sips.html
+* https://korben.info/comment-sexercer-au-ethical-hacking.html
+* https://zythom.blogspot.fr/2014/08/tome-5.html?m=1
+* https://blog.seboss666.info/2015/08/reprenez-le-controle-du-cache-memoire-du-noyau-linux/
+* http://v0ids3curity.blogspot.com/
+* https://ajinabraham.com/blog/exploiting-insecure-file-extraction-in-python-for-code-execution
+* https://www.drchaos.com/recon-ng-advanced-reconnaissance-framework/
+* https://github.com/bkimminich/juice-shop
+* https://pentestlab.blog/2018/04/24/lateral-movement-rdp/
+* https://www.xudongz.com/blog/2017/idn-phishing/
+* http://www.arolla.fr/blog/2016/07/comment-fonctionne-un-debugger/
+* http://blog.gentilkiwi.com/tag/pass-the-hash
+* http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/
+* http://www.fuzzysecurity.com/tutorials/16.html
+* https://www.information-security.fr/pivoting-meterpreter/
+* hackingarticles.in
+* https://www.securityartwork.es/2012/11/16/safe-delete-meterpreter-module-2/
+* http://www.hackingarticles.in/best-of-post-exploitation-exploits-tricks/
+* http://www.hackingarticles.in/best-of-computer-forensics-tutorials/
+* https://malicious.link/post/2018/stealing-certificates-with-apostille/
+* https://www.hacking-lab.com/membership/
+* https://adsecurity.org/?p=2362
+* https://pentestlab.blog/2018/04/09/golden-ticket/
+* https://bluescreenofjeff.com/
+* https://artkond.com/
+* https://sourceforge.net/projects/javavulnerablelab/
+* https://jerrygamblin.com/2017/01/06/port-scanning-through-tor/
+* https://www.shellhacks.com/anonymous-port-scanning-nmap-tor-proxychains/
+* https://darrynvt.wordpress.com/2012/03/09/nmap-scan-via-tor-hidemyip/
+* https://www.aldeid.com/wiki/Tor/Usage/Nmap-scan-through-tor
+* http://www.behindthefirewalls.com/2013/06/anonymizing-your-attacks-with-tor-and.html
+* https://hackertarget.com/egress-firewall-test/
+* https://redteamtutorials.com/2018/11/19/gobuster-cheatsheet/
+* https://samsclass.info/
+* https://www.wordfence.com/learn/penetration-testing-your-wordpress-website/
+* https://cxsecurity.com/issue/WLB-2013020035+
+* https://nullsec.us/hashcat-3-0-on-a-32-bit-linux-vm/
+* https://blog.ripstech.com/2018/moodle-remote-code-execution/
+* http://cr.yp.to/
+* https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+
+ 
 
