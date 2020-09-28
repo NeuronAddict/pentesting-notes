@@ -15,8 +15,12 @@ https://android.stackexchange.com/questions/171442/root-android-virtual-device-w
 
 ## burp 
 
+RTFM : https://developer.android.com/training/articles/security-config
+
 https://laconicwolf.com/2019/07/21/using-burp-suite-with-android-devices/
 https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/
+https://medium.com/androgoat/intercept-https-traffic-from-android-app-androgoat-part-2-60f7777b237d
+https://medium.com/@bastian.ohm/analyse-network-traffic-with-burp-suite-on-android-3cefbf02af2e
 
 ## apktool
 
