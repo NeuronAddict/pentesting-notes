@@ -28,4 +28,24 @@ https://medium.com/@bastian.ohm/analyse-network-traffic-with-burp-suite-on-andro
 - do not use package appt/aapt2... version. Use lastest android build tools
 - be careful of frameworks, if corrupted, clean framework folder
 
- 
+## extract app from device
+
+```
+adb shell pm list packages
+adb shell pm path <package>
+adb pull <path>
+
+adb shell pm list packages | grep post
+adb shell pm path com.tunnelworkshop.postern
+adb pull /data/app/com.tunnelworkshop.postern-6pW_bRJGP95txOIXs-tQhA==/base.apk
+```
+
+## reinstall
+
+```
+adb shell pm clear com.package.foo
+adb uninstall com.package.foo
+adb install com.package.foo
+```
+
+https://stackoverflow.com/questions/12483720/adb-how-to-reinstall-an-app-without-retaining-the-data 
