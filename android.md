@@ -49,3 +49,10 @@ adb install com.package.foo
 ```
 
 https://stackoverflow.com/questions/12483720/adb-how-to-reinstall-an-app-without-retaining-the-data 
+
+## analyze
+
+https://androguard.readthedocs.io/en/latest/intro/gettingstarted.html
+https://resources.infosecinstitute.com/android-penetration-tools-walkthrough-series-androguard/
+https://androlyze.readthedocs.io/en/latest/index.html
+
