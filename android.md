@@ -28,6 +28,13 @@ https://medium.com/@bastian.ohm/analyse-network-traffic-with-burp-suite-on-andro
 - do not use package appt/aapt2... version. Use lastest android build tools
 - be careful of frameworks, if corrupted, clean framework folder
 
+## resign apk
+
+```
+keytool -genkey -v -keystore burp.keystore -storepass <password> -alias android -keypass <password> -keyalg RSA -keysize 2048 -validity 10000
+jarsigner -verbose -keystore burp.keystore -storepass <password> -keypass <password> app.apk android
+```
+
 ## extract app from device
 
 ```
