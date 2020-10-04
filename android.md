@@ -1,5 +1,7 @@
 # android
 
+https://docs.koodous.com/
+
 ## mitm proxy with android
 
 https://docs.mitmproxy.org/stable/howto-install-system-trusted-ca-android/
@@ -63,3 +65,10 @@ https://androguard.readthedocs.io/en/latest/intro/gettingstarted.html
 https://resources.infosecinstitute.com/android-penetration-tools-walkthrough-series-androguard/
 https://androlyze.readthedocs.io/en/latest/index.html
 
+
+# old apks
+
+- uptodown.com
+- apkpure.com
+- androidapksfree.com
+- apkmonk.com/
