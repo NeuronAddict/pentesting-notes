@@ -4,7 +4,7 @@
 
 Use fuzzdb for plugins / themes enum (fuzzdb/discovery/predictable-filepaths/cms).
 
-# gobuster for fine search 
+## gobuster for fine search 
 
 Use something like this for search inside folder :
 
