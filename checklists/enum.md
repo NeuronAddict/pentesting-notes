@@ -18,7 +18,7 @@ For known services, (http, snmap, ssh, ftp, ...), use nmap scripts
 
 ## os guess
 Os guess with nmap
-services headers for discorer version
+services headers for discover version
 probe from open ports (ex: 3389 -> windows)
 
 ## Explore services
