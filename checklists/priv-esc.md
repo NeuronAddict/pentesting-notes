@@ -40,6 +40,13 @@ Efficient if password are discovered
 And search for command that ca execute arbitrary code (ie nmap can launch a shell, vi too, more with short...).
 see inside_exec.md
 
+### try all with password discoreved 
+
+- ssh for all users
+- sudo for all users
+- su can work too !
+- doas, runas, pkexec if available
+
 ### other home folders
 
 If other users are here, look at home folder for interesting files (ie .bash_history, .ssh, .cache, ...).
