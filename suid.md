@@ -23,3 +23,8 @@ int main()
 
 http://www.faqs.org/faqs/unix-faq/faq/part4/section-7.html <== very interesting
 https://stackoverflow.com/questions/18698976/suid-not-working-with-shell-script
+
+security risk in suid bash scripts : http://www.faqs.org/faqs/unix-faq/faq/part4/section-7.html
+
+
+
