@@ -20,3 +20,7 @@ python pack : https://www.journaldev.com/17401/python-struct-pack-unpack, https:
 ASLR : https://linux-audit.com/linux-aslr-and-kernelrandomize_va_space-setting/
 
 
+## peda
+
+http://security.cs.pub.ro/hexcellents/wiki/kb/toolset/peda
+http://www.ropshell.com/peda/
