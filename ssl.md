@@ -12,6 +12,8 @@ openssl s_client -connect 10.10.10.7:993
 
 ## links 
 
+* https://www.madboa.com/geek/openssl/
+* https://wiki.openssl.org/index.php/Command_Line_Utilities
 * https://www.reddit.com/r/oscp/comments/au8jy1/ncat_ssl_ctx_use_certificate_error00000000ssl/
 * https://www.openssl.org/docs/manmaster/man1/s_server.html
 * https://www.openssl.org/docs/manmaster/man1/s_client.html
