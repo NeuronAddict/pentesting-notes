@@ -102,6 +102,8 @@ useful suid programs :
 * pkexec <-- can work if sudo don't
 * all custom programs, especially on home folders ;)
 
+search here : https://gtfobins.github.io/gtfobins/service/
+
 ### any cron ?
 
 cron task are often executeds by root.
