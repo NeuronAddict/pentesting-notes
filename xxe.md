@@ -40,3 +40,10 @@ https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/
 
 
 ftp server : https://github.com/RhinoSecurityLabs/Security-Research/blob/master/tools/python/xxe-server.py
+
+
+https://securityonline.info/xxer/
+https://github.com/TheTwitchy/xxer/blob/master/xxer.py
+https://info.ninadmathpati.com/resources/web-app-pentest/xxe
+
+jar:// : https://docs.oracle.com/javase/8/docs/api/java/net/JarURLConnection.html

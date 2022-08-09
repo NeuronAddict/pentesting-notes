@@ -23,3 +23,7 @@ cat /etc/cracklib/cracklib.conf
 ## links
 * https://techglimpse.com/cracking-linux-password-hashes-with-hashcat/
 * https://hashkiller.co.uk/
+
+## create a hash
+
+https://www.shellhacks.com/linux-generate-password-hash/

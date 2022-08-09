@@ -8,3 +8,5 @@ https://www.maketecheasier.com/linux-command-line-history-incognito/
 
 upgrade to a real shell : https://nepcodex.com/2021/06/upgrade-to-an-intelligent-reverse-shell/
 
+https://www.linusakesson.net/programming/tty/index.php
+
